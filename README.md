@@ -1,3 +1,3 @@
 # gitskills
 create branch dev
-secound branch test
+second branch test
